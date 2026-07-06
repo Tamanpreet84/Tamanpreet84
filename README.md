@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/userupload/42192649/file/original-0fa06a1b85fb43faec0132b0494dff2c.gif" width="300">
+<img align="right" width="300" alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF5cTNlYmoycG82aG5jc29kcDR6YmRjY3h5dmhyaWt2cjVlYmJ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 ## 👨‍💻 About Me
 
@@ -57,6 +57,7 @@
 </p>
 
 ---
+
 
 ## 💻 Tech Stack
 
@@ -112,31 +113,57 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tamanpreet84&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Taman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamanpreet84&theme=tokyo-night)](https://github.com/Tamanpreet84)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Tamanpreet84/Tamanpreet84/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
+---
+## 🚀 Competitive Programming & Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/Tamanpreet84">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Tamanpreet5454/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://codeforces.com/profile/Taman84">
+  <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/hatch_grape_07">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/tamanpreet5454">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/tamanpreetgfg5454/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://codolio.com/profile/Tamanpreet">
+  <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</p>
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Taman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamanpreet84&theme=tokyo-night)](https://github.com/Tamanpreet84)
 
 </div>
 ---
